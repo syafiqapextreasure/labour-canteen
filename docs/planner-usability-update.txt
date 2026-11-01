@@ -1,0 +1,11 @@
+Planner usability update — 2 November 2026
+
+Planner quotation actions open WhatsApp/email directly with the current plan. They no longer redirect to enquiry forms. Clicking a contact action also applies the current editor fields. No message is sent automatically.
+
+Food photos now accompany table labels, selected dishes and the searchable keyboard-accessible disclosure picker. Reset food clears dishes across the week while preserving quantities and settings; Undo restores the previous plan during the current session. Empty selections persist on reload.
+
+Package presets now appear on Home and Our Menus, with compact photo cards. Management/workforce connector arrows point outward on desktop and down to their respective images on mobile. Add buttons have fixed 44px circular targets and centred 22px SVGs.
+
+The remaining subsidy-worker boxed-meal image was edited using built-in ImageGen. Prompt: preserve three diverse coworkers and canteen composition; replace all cardboard meal boxes with open stainless steel compartment trays; enhance photographic quality and realistic hands. Source master: ../website-source-assets/subsidy-workers-tray.png. WebP saved losslessly.
+
+Validation: seven automated checks pass; browser verified image search/selection/add/apply, reset/undo, direct encoded contact links, package availability on menu page, mobile arrows and no overflow at 390/768px. Plus-button geometry measured 44x44 with centred glyph. No real enquiry sent. Evidence: outputs/website-comparison/planner-update.
