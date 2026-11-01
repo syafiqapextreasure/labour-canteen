@@ -1,0 +1,7 @@
+Kitchen photography and inline menu presets — 2 November 2026
+
+Central Kitchen now has five unique section photographs: tray portioning hero, cooking team, finished meal trays, delivery coordination, and fresh ingredient preparation CTA. Generated three missing scenes with built-in ImageGen; source masters retained in ../website-source-assets/*-distinct.png, lossless WebP assets deployed. Prompts: close-up finished steel tray lunches with no people; delivery team beside reusable trays/steel food-service containers and van; gloved chef preparing fresh vegetables. All avoid cardboard meal boxes. These are illustrative images, not documentary facility photographs.
+
+Menus: removed the standalone package block. Standard, Most Popular and Healthy chips now appear directly under meal tabs in the existing browser; an inline preview opens only after selection and can be closed. Home retains its package card. Add-to-day and planner persistence retained.
+
+Validation: all seven automated checks pass, five photo hashes are unique, browser confirmed intended image sources, no desktop/mobile overflow, inline preview open/close and package transfer to Monday lunch. Screenshots saved in outputs/website-comparison/kitchen-distinct and menu-inline.
