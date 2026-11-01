@@ -1,0 +1,56 @@
+LABOUR CANTEEN — DESIGN AND IMPLEMENTATION AUDIT
+Completed 2 November 2026
+
+APPROVED REFERENCES
+Home: 04-combined-workforce-menu.png
+Menus: our-menus-design/01-our-menus-page.png
+Weekly planner: our-menus-design/02-weekly-planner.png
+Breakfast, lunch and tea-time: catalogue references 03, 04 and 05.
+Subsidy: subsidy-support-page.png
+Kitchen: central-kitchen-page.png
+Story: our-story-design/01-our-story-page.png
+
+REVIEW METHOD
+Audited section order, columns, gutters, hero split/crop, heading proportions, background imagery, shape overlays, icons, cards and spacing against each reference. Saved initial comparisons, corrected mismatches, then repeated browser screenshots at 1440px desktop, 768px tablet and 390px phone. Main pages were also checked at 1920px. Phone captures exceeding the connected browser's 4096px capture height combine top and bottom viewport captures at the observed scroll offset. Screenshot compression belongs to the evidence viewer; it does not change website asset files.
+
+The supplied desktop references do not define phone/tablet layouts. Those views adapt the same content and brand composition. QA found and fixed horizontal overflow in the phone planner and kitchen metrics. The table now scrolls inside its panel. Desktop planner editing remains in a right sidebar; tablet/phone editing moves below the table.
+
+PAGE-BY-PAGE FINDINGS AND CORRECTIONS
+Home: corrected the hero split to 46/54, line height and reading sizes; reduced section spacing; restored exact connection icons, original industry icon backplates, connector lines/dots, rounded pale-blue preference panel and orange/blue CTA decoration. Reconstructed high-resolution hero replaces the small original photo crop. Original source crops remain available as fallbacks.
+
+Menus: restored six exact image crops from the approved main menu rather than differently cropped catalogue photos. Matched three-column desktop cards, category controls, fruit-feature cropping and seven-day preview. Added original fruit feature, shared-support footer metrics and functional planner links. Reconstructed hero retains the same food arrangement with some photographic differences. All 75 entries are available on separate rendered catalogue routes.
+
+Catalogues: reduced the initially oversized hero to the shallow approved banner; matched five-column Malay breakfast, six-column Indian/Mamak rows, two-column kopitiam, four-column lunch, and grouped tea-time grids. Removed uniform image aspect-ratio overrides so original approved crops retain their actual framing. At narrow widths cards reflow into two or three columns and keep touch-sized add controls.
+
+Planner: retained the weekly grid, right editing panel, progress strip and pale-blue visual system. Implemented real dish selection, multiple sides, per-meal quantities, spice, fruit, copy-to-days, varied-week suggestion, local draft saving, CSV export and enquiry review. Readable controls and a footer make this view taller than the small-text reference. This is an intentional accessibility/functionality difference, not a pixel-identical screen.
+
+Kitchen: corrected heading wrapping, workflow card height, meal-strip crop, compact safety cards, address block and dispatch-image proportions. Preserved original workflow icons and section photos. Address is the user-supplied Shah Alam kitchen address. Capacity is up to 1,000 daily packs. Phone metrics stack into three readable rows.
+
+Subsidy: retained shared worker/company contribution diagram, four-step flow, worker/company benefit imagery, payment band, FAQ cards and CTA. Restored navy/orange/blue decorative treatment. No monetary examples or prices are shown. The meal-token graphic is native text/vector content over the reconstructed hero.
+
+Story: retained enhanced archive photographs, two-column purpose section, three-photo gallery, stacked leadership chart and individual training summaries. Leadership names and qualifications match supplied instructions. No guessed founder portraits, certificate identity numbers, QR codes, signatures or corporate halal-certification claim are published. The closing CTA uses the approved plain navy background and corner shapes.
+
+GLOBAL TYPOGRAPHY AND IMAGERY
+The raster mockups contain no exact font metadata. Self-hosted Inter variable is the visual match selected. Main body type is 18px on phones and grows to approximately 24px at 1440px and 30px at 1920px. Navigation/secondary UI labels use their own readable hierarchy. Heading scale, reduced-motion support, keyboard focus and 44px primary interaction targets are retained.
+
+Original source-resolution crops are encoded as lossless WebP, with decoded pixel equality checked. Standalone enhanced archive photos have responsive variants. Four missing hero photos were reconstructed at 1536 x 1024 through built-in ImageGen, then losslessly compressed. Their full-size files and 960px responsive variants are supplied. Resizing responsive variants changes pixels; it is not described as mathematically lossless resizing.
+
+Exact small catalogue crops cannot gain original detail by upscaling. They are reused to honour the request to preserve approved assets rather than replace every dish with a different generated photograph. Original raster icons are used for primary proof, connection, industry and workflow elements. Small UI actions and some simple line symbols use native SVG geometry, so minor stroke differences remain.
+
+KNOWN VISUAL DIFFERENCES
+- High-resolution reconstructed hero photos have small differences in food, hands, clothing detail and framing.
+- Inter is a visual match, not a verified original font family.
+- Increased readable type and real controls introduce some extra height and line wrapping.
+- Responsive rearrangements are adaptations because only desktop artwork was supplied.
+- The new central-kitchen navigation link and contact footer are included consistently, even where older reference pages omit them.
+The project is not represented as a 100% pixel-identical copy. The comparison gallery makes these differences reviewable.
+
+VALIDATION
+Seven automated suites pass: 24 route metadata/link/asset checks; all 75 menu entries; corrected business facts and price-free subsidy copy; complete Malay translation data; encoded enquiry targets and optional plan inclusion; Worker redirects and true 404 handling; sitemap/robots coverage.
+
+Browser checks pass for search, cuisine filters, adding a dish to a chosen day, editing/adding/removing sides, portions, spice, copy-to-days, five/seven-day selection, local saving/reload, CSV download, Malay planner state, mobile navigation, required enquiry fields and plan attachment review. No real enquiry was sent. Browser error log was empty during tested flows. Phone, tablet and desktop captures report no horizontal document overflow and no failed images at the inspected states. Malay main pages and catalogues also fit 390px.
+
+The local Wrangler dry-run could not complete because this environment denied spawning its esbuild process (EPERM). The configuration follows current official Workers static-assets guidance; static builds and direct Worker unit checks pass. No live Cloudflare deployment, production DNS attachment, real message delivery, search indexing or live ranking result is claimed.
+
+SEO / AEO / GEO
+Rendered page content, descriptive titles and descriptions, canonical and alternate-language URLs, Open Graph data, FoodEstablishment/WebSite/Breadcrumb/Menu JSON-LD, sitemap.xml, robots.txt and clear question/answer copy are implemented. Qualitative keyword and competitor research is in seo-research.txt. No special AI-ranking guarantee or fabricated review schema is included. The production origin must match the final domain selected at deployment.

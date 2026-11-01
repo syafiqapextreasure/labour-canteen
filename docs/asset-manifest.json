@@ -1,0 +1,2807 @@
+[
+  {
+    "name": "home-hero",
+    "url": "/assets/home-hero.webp",
+    "width": 524,
+    "height": 351,
+    "bytes": 196178,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      447,
+      63,
+      971,
+      414
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "home-meal-tray",
+    "url": "/assets/home-meal-tray.webp",
+    "width": 474,
+    "height": 170,
+    "bytes": 129394,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      23,
+      966,
+      497,
+      1136
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "management",
+    "url": "/assets/management.webp",
+    "width": 199,
+    "height": 172,
+    "bytes": 41462,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      27,
+      591,
+      226,
+      763
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "workforce",
+    "url": "/assets/workforce.webp",
+    "width": 190,
+    "height": 171,
+    "bytes": 45282,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      754,
+      592,
+      944,
+      763
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "kitchen-small",
+    "url": "/assets/kitchen-small.webp",
+    "width": 184,
+    "height": 113,
+    "bytes": 32076,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      303,
+      1192,
+      487,
+      1305
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "cta-kitchen",
+    "url": "/assets/cta-kitchen.webp",
+    "width": 379,
+    "height": 111,
+    "bytes": 57946,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      565,
+      1447,
+      944,
+      1558
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "menu-hero",
+    "url": "/assets/menu-hero.webp",
+    "width": 536,
+    "height": 306,
+    "bytes": 228006,
+    "source": "outputs\\our-menus-design\\01-our-menus-page.png",
+    "sourceSize": [
+      971,
+      1620
+    ],
+    "crop": [
+      435,
+      61,
+      971,
+      367
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "menu-fruit-feature",
+    "url": "/assets/menu-fruit-feature.webp",
+    "width": 449,
+    "height": 187,
+    "bytes": 103178,
+    "source": "outputs\\our-menus-design\\01-our-menus-page.png",
+    "sourceSize": [
+      971,
+      1620
+    ],
+    "crop": [
+      490,
+      862,
+      939,
+      1049
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "kitchen-hero",
+    "url": "/assets/kitchen-hero.webp",
+    "width": 480,
+    "height": 331,
+    "bytes": 200230,
+    "source": "outputs\\central-kitchen-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      491,
+      62,
+      971,
+      393
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "kitchen-team",
+    "url": "/assets/kitchen-team.webp",
+    "width": 456,
+    "height": 256,
+    "bytes": 156994,
+    "source": "outputs\\central-kitchen-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      31,
+      571,
+      487,
+      827
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "kitchen-meals-strip",
+    "url": "/assets/kitchen-meals-strip.webp",
+    "width": 905,
+    "height": 85,
+    "bytes": 117670,
+    "source": "outputs\\central-kitchen-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      34,
+      1022,
+      939,
+      1107
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "kitchen-dispatch",
+    "url": "/assets/kitchen-dispatch.webp",
+    "width": 402,
+    "height": 164,
+    "bytes": 86254,
+    "source": "outputs\\central-kitchen-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      554,
+      1274,
+      956,
+      1438
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "subsidy-hero",
+    "url": "/assets/subsidy-hero.webp",
+    "width": 499,
+    "height": 358,
+    "bytes": 209852,
+    "source": "outputs\\subsidy-support-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      472,
+      61,
+      971,
+      419
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "subsidy-workers",
+    "url": "/assets/subsidy-workers.webp",
+    "width": 252,
+    "height": 196,
+    "bytes": 71910,
+    "source": "outputs\\subsidy-support-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      29,
+      987,
+      281,
+      1183
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "subsidy-company",
+    "url": "/assets/subsidy-company.webp",
+    "width": 230,
+    "height": 197,
+    "bytes": 55226,
+    "source": "outputs\\subsidy-support-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      512,
+      986,
+      742,
+      1183
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "breakfast-hero",
+    "url": "/assets/breakfast-hero.webp",
+    "width": 376,
+    "height": 156,
+    "bytes": 81980,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      648,
+      61,
+      1024,
+      217
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "lunch-hero",
+    "url": "/assets/lunch-hero.webp",
+    "width": 365,
+    "height": 144,
+    "bytes": 81594,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      659,
+      64,
+      1024,
+      208
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "tea-hero",
+    "url": "/assets/tea-hero.webp",
+    "width": 451,
+    "height": 247,
+    "bytes": 143396,
+    "source": "outputs\\our-menus-design\\05-teatime-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      573,
+      66,
+      1024,
+      313
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "preference-rice",
+    "url": "/assets/preference-rice.webp",
+    "width": 123,
+    "height": 83,
+    "bytes": 19038,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      526,
+      909,
+      649,
+      992
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "preference-chicken",
+    "url": "/assets/preference-chicken.webp",
+    "width": 122,
+    "height": 83,
+    "bytes": 20954,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      660,
+      909,
+      782,
+      992
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "preference-vegetables",
+    "url": "/assets/preference-vegetables.webp",
+    "width": 122,
+    "height": 83,
+    "bytes": 19128,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      792,
+      909,
+      914,
+      992
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "kitchen-malay",
+    "url": "/assets/kitchen-malay.webp",
+    "width": 99,
+    "height": 104,
+    "bytes": 19716,
+    "source": "outputs\\central-kitchen-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      508,
+      684,
+      607,
+      788
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "kitchen-indian",
+    "url": "/assets/kitchen-indian.webp",
+    "width": 102,
+    "height": 104,
+    "bytes": 18640,
+    "source": "outputs\\central-kitchen-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      622,
+      684,
+      724,
+      788
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "kitchen-mamak",
+    "url": "/assets/kitchen-mamak.webp",
+    "width": 99,
+    "height": 104,
+    "bytes": 19726,
+    "source": "outputs\\central-kitchen-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      737,
+      684,
+      836,
+      788
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "kitchen-kopitiam",
+    "url": "/assets/kitchen-kopitiam.webp",
+    "width": 95,
+    "height": 104,
+    "bytes": 16856,
+    "source": "outputs\\central-kitchen-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      850,
+      684,
+      945,
+      788
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-packs-white",
+    "url": "/assets/icon-packs-white.webp",
+    "width": 66,
+    "height": 63,
+    "bytes": 4958,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      66,
+      442,
+      132,
+      505
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-people-white",
+    "url": "/assets/icon-people-white.webp",
+    "width": 70,
+    "height": 62,
+    "bytes": 5160,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      370,
+      442,
+      440,
+      504
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-location-white",
+    "url": "/assets/icon-location-white.webp",
+    "width": 55,
+    "height": 64,
+    "bytes": 5060,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      701,
+      440,
+      756,
+      504
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-industry-manufacturing",
+    "url": "/assets/icon-industry-manufacturing.webp",
+    "width": 57,
+    "height": 53,
+    "bytes": 3030,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      72,
+      1362,
+      129,
+      1415
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-industry-construction",
+    "url": "/assets/icon-industry-construction.webp",
+    "width": 58,
+    "height": 53,
+    "bytes": 3888,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      216,
+      1362,
+      274,
+      1415
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-industry-corporate",
+    "url": "/assets/icon-industry-corporate.webp",
+    "width": 59,
+    "height": 53,
+    "bytes": 3278,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      374,
+      1362,
+      433,
+      1415
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-industry-hospital",
+    "url": "/assets/icon-industry-hospital.webp",
+    "width": 59,
+    "height": 53,
+    "bytes": 3244,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      529,
+      1362,
+      588,
+      1415
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-industry-hostel",
+    "url": "/assets/icon-industry-hostel.webp",
+    "width": 60,
+    "height": 53,
+    "bytes": 3318,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      685,
+      1362,
+      745,
+      1415
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-industry-university",
+    "url": "/assets/icon-industry-university.webp",
+    "width": 61,
+    "height": 53,
+    "bytes": 4228,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      840,
+      1362,
+      901,
+      1415
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-calendar-blue",
+    "url": "/assets/icon-calendar-blue.webp",
+    "width": 30,
+    "height": 31,
+    "bytes": 1628,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      238,
+      636,
+      268,
+      667
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-handshake-blue",
+    "url": "/assets/icon-handshake-blue.webp",
+    "width": 36,
+    "height": 31,
+    "bytes": 2228,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      235,
+      677,
+      271,
+      708
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-document-blue",
+    "url": "/assets/icon-document-blue.webp",
+    "width": 28,
+    "height": 32,
+    "bytes": 1324,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      239,
+      716,
+      267,
+      748
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-cutlery-blue",
+    "url": "/assets/icon-cutlery-blue.webp",
+    "width": 31,
+    "height": 31,
+    "bytes": 1900,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      590,
+      637,
+      621,
+      668
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-bowl-blue",
+    "url": "/assets/icon-bowl-blue.webp",
+    "width": 31,
+    "height": 31,
+    "bytes": 1580,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      590,
+      676,
+      621,
+      707
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-contact-blue",
+    "url": "/assets/icon-contact-blue.webp",
+    "width": 35,
+    "height": 35,
+    "bytes": 2056,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      588,
+      715,
+      623,
+      750
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-subsidy-coins",
+    "url": "/assets/icon-subsidy-coins.webp",
+    "width": 59,
+    "height": 57,
+    "bytes": 4740,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      57,
+      1216,
+      116,
+      1273
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-dedicated-team",
+    "url": "/assets/icon-dedicated-team.webp",
+    "width": 62,
+    "height": 57,
+    "bytes": 4940,
+    "source": "outputs\\04-combined-workforce-menu.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      685,
+      1216,
+      747,
+      1273
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-worker-support",
+    "url": "/assets/icon-worker-support.webp",
+    "width": 90,
+    "height": 110,
+    "bytes": 12652,
+    "source": "outputs\\subsidy-support-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      46,
+      501,
+      136,
+      611
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-company-support",
+    "url": "/assets/icon-company-support.webp",
+    "width": 95,
+    "height": 108,
+    "bytes": 9992,
+    "source": "outputs\\subsidy-support-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      355,
+      502,
+      450,
+      610
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-meal-support",
+    "url": "/assets/icon-meal-support.webp",
+    "width": 93,
+    "height": 88,
+    "bytes": 9164,
+    "source": "outputs\\subsidy-support-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      680,
+      514,
+      773,
+      602
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-allowance-handshake",
+    "url": "/assets/icon-allowance-handshake.webp",
+    "width": 84,
+    "height": 69,
+    "bytes": 8012,
+    "source": "outputs\\subsidy-support-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      90,
+      748,
+      174,
+      817
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-meal-token",
+    "url": "/assets/icon-meal-token.webp",
+    "width": 72,
+    "height": 65,
+    "bytes": 5556,
+    "source": "outputs\\subsidy-support-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      333,
+      747,
+      405,
+      812
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-meal-record",
+    "url": "/assets/icon-meal-record.webp",
+    "width": 54,
+    "height": 67,
+    "bytes": 4154,
+    "source": "outputs\\subsidy-support-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      573,
+      747,
+      627,
+      814
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-settlement-calendar",
+    "url": "/assets/icon-settlement-calendar.webp",
+    "width": 77,
+    "height": 69,
+    "bytes": 5926,
+    "source": "outputs\\subsidy-support-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      792,
+      747,
+      869,
+      816
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-kitchen-prepare",
+    "url": "/assets/icon-kitchen-prepare.webp",
+    "width": 61,
+    "height": 52,
+    "bytes": 3480,
+    "source": "outputs\\central-kitchen-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      105,
+      896,
+      166,
+      948
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-kitchen-cook",
+    "url": "/assets/icon-kitchen-cook.webp",
+    "width": 68,
+    "height": 50,
+    "bytes": 3736,
+    "source": "outputs\\central-kitchen-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      352,
+      898,
+      420,
+      948
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-kitchen-pack",
+    "url": "/assets/icon-kitchen-pack.webp",
+    "width": 63,
+    "height": 50,
+    "bytes": 4498,
+    "source": "outputs\\central-kitchen-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      584,
+      899,
+      647,
+      949
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-kitchen-coordinate",
+    "url": "/assets/icon-kitchen-coordinate.webp",
+    "width": 53,
+    "height": 51,
+    "bytes": 3276,
+    "source": "outputs\\central-kitchen-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      805,
+      898,
+      858,
+      949
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "icon-chef-white",
+    "url": "/assets/icon-chef-white.webp",
+    "width": 60,
+    "height": 64,
+    "bytes": 4852,
+    "source": "outputs\\central-kitchen-page.png",
+    "sourceSize": [
+      971,
+      1619
+    ],
+    "crop": [
+      380,
+      427,
+      440,
+      491
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "fruit",
+    "url": "/assets/fruit.webp",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 1447528,
+    "source": "outputs\\our-menus-design\\06-buah-potong.png",
+    "sourceSize": [
+      1536,
+      1024
+    ],
+    "crop": null,
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": [
+      {
+        "url": "/assets/fruit-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 166160,
+        "note": "Resized derivative; lossless WebP encoding of resized pixels, not a lossless resize."
+      },
+      {
+        "url": "/assets/fruit-800.webp",
+        "width": 800,
+        "height": 533,
+        "bytes": 430102,
+        "note": "Resized derivative; lossless WebP encoding of resized pixels, not a lossless resize."
+      },
+      {
+        "url": "/assets/fruit-1200.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 939670,
+        "note": "Resized derivative; lossless WebP encoding of resized pixels, not a lossless resize."
+      }
+    ]
+  },
+  {
+    "name": "story-workers",
+    "url": "/assets/story-workers.webp",
+    "width": 1448,
+    "height": 1086,
+    "bytes": 1919904,
+    "source": "outputs\\our-story-design\\02-enhanced-workers.png",
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "crop": null,
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": [
+      {
+        "url": "/assets/story-workers-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 272658,
+        "note": "Resized derivative; lossless WebP encoding of resized pixels, not a lossless resize."
+      },
+      {
+        "url": "/assets/story-workers-800.webp",
+        "width": 800,
+        "height": 600,
+        "bytes": 673450,
+        "note": "Resized derivative; lossless WebP encoding of resized pixels, not a lossless resize."
+      },
+      {
+        "url": "/assets/story-workers-1200.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 1416896,
+        "note": "Resized derivative; lossless WebP encoding of resized pixels, not a lossless resize."
+      }
+    ]
+  },
+  {
+    "name": "story-buffet",
+    "url": "/assets/story-buffet.webp",
+    "width": 1448,
+    "height": 1086,
+    "bytes": 1950284,
+    "source": "outputs\\our-story-design\\03-enhanced-buffet.png",
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "crop": null,
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": [
+      {
+        "url": "/assets/story-buffet-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 271316,
+        "note": "Resized derivative; lossless WebP encoding of resized pixels, not a lossless resize."
+      },
+      {
+        "url": "/assets/story-buffet-800.webp",
+        "width": 800,
+        "height": 600,
+        "bytes": 680106,
+        "note": "Resized derivative; lossless WebP encoding of resized pixels, not a lossless resize."
+      },
+      {
+        "url": "/assets/story-buffet-1200.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 1436270,
+        "note": "Resized derivative; lossless WebP encoding of resized pixels, not a lossless resize."
+      }
+    ]
+  },
+  {
+    "name": "story-gathering",
+    "url": "/assets/story-gathering.webp",
+    "width": 1448,
+    "height": 1086,
+    "bytes": 1933774,
+    "source": "outputs\\our-story-design\\04-enhanced-gathering.png",
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "crop": null,
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": [
+      {
+        "url": "/assets/story-gathering-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 281264,
+        "note": "Resized derivative; lossless WebP encoding of resized pixels, not a lossless resize."
+      },
+      {
+        "url": "/assets/story-gathering-800.webp",
+        "width": 800,
+        "height": 600,
+        "bytes": 696272,
+        "note": "Resized derivative; lossless WebP encoding of resized pixels, not a lossless resize."
+      },
+      {
+        "url": "/assets/story-gathering-1200.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 1436582,
+        "note": "Resized derivative; lossless WebP encoding of resized pixels, not a lossless resize."
+      }
+    ]
+  },
+  {
+    "name": "story-office",
+    "url": "/assets/story-office.webp",
+    "width": 1672,
+    "height": 941,
+    "bytes": 1533694,
+    "source": "outputs\\our-story-design\\05-enhanced-office.png",
+    "sourceSize": [
+      1672,
+      941
+    ],
+    "crop": null,
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": [
+      {
+        "url": "/assets/story-office-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 151086,
+        "note": "Resized derivative; lossless WebP encoding of resized pixels, not a lossless resize."
+      },
+      {
+        "url": "/assets/story-office-800.webp",
+        "width": 800,
+        "height": 450,
+        "bytes": 399318,
+        "note": "Resized derivative; lossless WebP encoding of resized pixels, not a lossless resize."
+      },
+      {
+        "url": "/assets/story-office-1200.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 855322,
+        "note": "Resized derivative; lossless WebP encoding of resized pixels, not a lossless resize."
+      }
+    ]
+  },
+  {
+    "name": "logo",
+    "url": "/assets/logo.webp",
+    "width": 1198,
+    "height": 406,
+    "bytes": 120090,
+    "source": "codex-clipboard-793df3c6-7718-44db-b4ec-aaf50e820d1a.png",
+    "sourceSize": [
+      1366,
+      768
+    ],
+    "crop": [
+      109,
+      212,
+      1307,
+      618
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "brand-mark",
+    "url": "/assets/brand-mark.webp",
+    "width": 472,
+    "height": 406,
+    "bytes": 46188,
+    "source": "codex-clipboard-793df3c6-7718-44db-b4ec-aaf50e820d1a.png",
+    "sourceSize": [
+      1366,
+      768
+    ],
+    "crop": [
+      110,
+      212,
+      582,
+      618
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-01-nasi-lemak-daun-pisang-bungkus",
+    "url": "/assets/dish-breakfast-01-nasi-lemak-daun-pisang-bungkus.webp",
+    "width": 179,
+    "height": 86,
+    "bytes": 25674,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      39,
+      380,
+      218,
+      466
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-02-nasi-goreng-cina",
+    "url": "/assets/dish-breakfast-02-nasi-goreng-cina.webp",
+    "width": 179,
+    "height": 86,
+    "bytes": 27696,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      231,
+      380,
+      410,
+      466
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-03-mee-hoon-goreng",
+    "url": "/assets/dish-breakfast-03-mee-hoon-goreng.webp",
+    "width": 180,
+    "height": 86,
+    "bytes": 29598,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      423,
+      380,
+      603,
+      466
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-04-mee-goreng",
+    "url": "/assets/dish-breakfast-04-mee-goreng.webp",
+    "width": 179,
+    "height": 86,
+    "bytes": 28990,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      616,
+      380,
+      795,
+      466
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-05-kuey-tiaw-goreng",
+    "url": "/assets/dish-breakfast-05-kuey-tiaw-goreng.webp",
+    "width": 178,
+    "height": 86,
+    "bytes": 27962,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      808,
+      380,
+      986,
+      466
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-06-nasi-goreng-kg",
+    "url": "/assets/dish-breakfast-06-nasi-goreng-kg.webp",
+    "width": 179,
+    "height": 84,
+    "bytes": 27306,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      39,
+      520,
+      218,
+      604
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-07-nasi-goreng-cili-kering",
+    "url": "/assets/dish-breakfast-07-nasi-goreng-cili-kering.webp",
+    "width": 179,
+    "height": 84,
+    "bytes": 30030,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      231,
+      520,
+      410,
+      604
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-08-cekodok",
+    "url": "/assets/dish-breakfast-08-cekodok.webp",
+    "width": 180,
+    "height": 84,
+    "bytes": 23590,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      423,
+      520,
+      603,
+      604
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-09-pisang-goreng-bijan",
+    "url": "/assets/dish-breakfast-09-pisang-goreng-bijan.webp",
+    "width": 179,
+    "height": 84,
+    "bytes": 25918,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      616,
+      520,
+      795,
+      604
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-10-tempe-goreng",
+    "url": "/assets/dish-breakfast-10-tempe-goreng.webp",
+    "width": 178,
+    "height": 84,
+    "bytes": 25662,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      808,
+      520,
+      986,
+      604
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-11-keledek-goreng",
+    "url": "/assets/dish-breakfast-11-keledek-goreng.webp",
+    "width": 179,
+    "height": 84,
+    "bytes": 24064,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      39,
+      658,
+      218,
+      742
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-12-nenas-goreng",
+    "url": "/assets/dish-breakfast-12-nenas-goreng.webp",
+    "width": 179,
+    "height": 84,
+    "bytes": 24036,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      231,
+      658,
+      410,
+      742
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-13-pisang-popcorn",
+    "url": "/assets/dish-breakfast-13-pisang-popcorn.webp",
+    "width": 180,
+    "height": 84,
+    "bytes": 25760,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      423,
+      658,
+      603,
+      742
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-14-lontong",
+    "url": "/assets/dish-breakfast-14-lontong.webp",
+    "width": 179,
+    "height": 84,
+    "bytes": 25558,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      616,
+      658,
+      795,
+      742
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-15-ayam-goreng",
+    "url": "/assets/dish-breakfast-15-ayam-goreng.webp",
+    "width": 178,
+    "height": 84,
+    "bytes": 26276,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      808,
+      658,
+      986,
+      742
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-16-poori",
+    "url": "/assets/dish-breakfast-16-poori.webp",
+    "width": 149,
+    "height": 98,
+    "bytes": 22552,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      39,
+      852,
+      188,
+      950
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-17-capati",
+    "url": "/assets/dish-breakfast-17-capati.webp",
+    "width": 148,
+    "height": 98,
+    "bytes": 24482,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      200,
+      852,
+      348,
+      950
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-18-thosai",
+    "url": "/assets/dish-breakfast-18-thosai.webp",
+    "width": 146,
+    "height": 98,
+    "bytes": 21872,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      361,
+      852,
+      507,
+      950
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-19-vada",
+    "url": "/assets/dish-breakfast-19-vada.webp",
+    "width": 146,
+    "height": 98,
+    "bytes": 23678,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      522,
+      852,
+      668,
+      950
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-20-samosa",
+    "url": "/assets/dish-breakfast-20-samosa.webp",
+    "width": 146,
+    "height": 98,
+    "bytes": 23976,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      681,
+      852,
+      827,
+      950
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-21-idli",
+    "url": "/assets/dish-breakfast-21-idli.webp",
+    "width": 145,
+    "height": 98,
+    "bytes": 20402,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      841,
+      852,
+      986,
+      950
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-22-roti-canai",
+    "url": "/assets/dish-breakfast-22-roti-canai.webp",
+    "width": 149,
+    "height": 89,
+    "bytes": 22934,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      39,
+      1051,
+      188,
+      1140
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-23-roti-sarang-burung",
+    "url": "/assets/dish-breakfast-23-roti-sarang-burung.webp",
+    "width": 148,
+    "height": 89,
+    "bytes": 22822,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      200,
+      1051,
+      348,
+      1140
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-24-roti-telur",
+    "url": "/assets/dish-breakfast-24-roti-telur.webp",
+    "width": 146,
+    "height": 89,
+    "bytes": 22410,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      361,
+      1051,
+      507,
+      1140
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-25-roti-pisang",
+    "url": "/assets/dish-breakfast-25-roti-pisang.webp",
+    "width": 146,
+    "height": 89,
+    "bytes": 23818,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      522,
+      1051,
+      668,
+      1140
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-26-roti-kaya",
+    "url": "/assets/dish-breakfast-26-roti-kaya.webp",
+    "width": 146,
+    "height": 89,
+    "bytes": 22896,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      681,
+      1051,
+      827,
+      1140
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-27-roti-telur-bawang",
+    "url": "/assets/dish-breakfast-27-roti-telur-bawang.webp",
+    "width": 145,
+    "height": 89,
+    "bytes": 23104,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      841,
+      1051,
+      986,
+      1140
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-28-roti-bakar",
+    "url": "/assets/dish-breakfast-28-roti-bakar.webp",
+    "width": 461,
+    "height": 73,
+    "bytes": 50882,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      41,
+      1255,
+      502,
+      1328
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-breakfast-29-telur-separuh-masak",
+    "url": "/assets/dish-breakfast-29-telur-separuh-masak.webp",
+    "width": 461,
+    "height": 73,
+    "bytes": 35770,
+    "source": "outputs\\our-menus-design\\03-breakfast-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      522,
+      1255,
+      983,
+      1328
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-01-ikan-sambal",
+    "url": "/assets/dish-lunch-01-ikan-sambal.webp",
+    "width": 225,
+    "height": 73,
+    "bytes": 32394,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      42,
+      283,
+      267,
+      356
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-02-ikan-taucho",
+    "url": "/assets/dish-lunch-02-ikan-taucho.webp",
+    "width": 221,
+    "height": 73,
+    "bytes": 28788,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      284,
+      283,
+      505,
+      356
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-03-ikan-kari",
+    "url": "/assets/dish-lunch-03-ikan-kari.webp",
+    "width": 223,
+    "height": 73,
+    "bytes": 28364,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      522,
+      283,
+      745,
+      356
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-04-ikan-masak-lemak-cili-api",
+    "url": "/assets/dish-lunch-04-ikan-masak-lemak-cili-api.webp",
+    "width": 222,
+    "height": 73,
+    "bytes": 27608,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      762,
+      283,
+      984,
+      356
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-05-ayam-masak-merah",
+    "url": "/assets/dish-lunch-05-ayam-masak-merah.webp",
+    "width": 225,
+    "height": 72,
+    "bytes": 29652,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      42,
+      414,
+      267,
+      486
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-06-ayam-berlada",
+    "url": "/assets/dish-lunch-06-ayam-berlada.webp",
+    "width": 221,
+    "height": 72,
+    "bytes": 29464,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      284,
+      414,
+      505,
+      486
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-07-parprik",
+    "url": "/assets/dish-lunch-07-parprik.webp",
+    "width": 223,
+    "height": 72,
+    "bytes": 29786,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      522,
+      414,
+      745,
+      486
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-08-kari-ayam",
+    "url": "/assets/dish-lunch-08-kari-ayam.webp",
+    "width": 222,
+    "height": 72,
+    "bytes": 27758,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      762,
+      414,
+      984,
+      486
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-09-lemak-sayur",
+    "url": "/assets/dish-lunch-09-lemak-sayur.webp",
+    "width": 225,
+    "height": 74,
+    "bytes": 27734,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      42,
+      547,
+      267,
+      621
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-10-asam-ikan",
+    "url": "/assets/dish-lunch-10-asam-ikan.webp",
+    "width": 221,
+    "height": 74,
+    "bytes": 27688,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      284,
+      547,
+      505,
+      621
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-11-gulai-ubi",
+    "url": "/assets/dish-lunch-11-gulai-ubi.webp",
+    "width": 223,
+    "height": 74,
+    "bytes": 26546,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      522,
+      547,
+      745,
+      621
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-12-sambal-ikan-bilis",
+    "url": "/assets/dish-lunch-12-sambal-ikan-bilis.webp",
+    "width": 222,
+    "height": 74,
+    "bytes": 32166,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      762,
+      547,
+      984,
+      621
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-13-udang-asam-manis",
+    "url": "/assets/dish-lunch-13-udang-asam-manis.webp",
+    "width": 225,
+    "height": 74,
+    "bytes": 30530,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      42,
+      681,
+      267,
+      755
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-14-singang",
+    "url": "/assets/dish-lunch-14-singang.webp",
+    "width": 221,
+    "height": 74,
+    "bytes": 26342,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      284,
+      681,
+      505,
+      755
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-15-semur-ikan",
+    "url": "/assets/dish-lunch-15-semur-ikan.webp",
+    "width": 223,
+    "height": 74,
+    "bytes": 29794,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      522,
+      681,
+      745,
+      755
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-16-rendang-ayam",
+    "url": "/assets/dish-lunch-16-rendang-ayam.webp",
+    "width": 222,
+    "height": 74,
+    "bytes": 29668,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      762,
+      681,
+      984,
+      755
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-17-kurma",
+    "url": "/assets/dish-lunch-17-kurma.webp",
+    "width": 225,
+    "height": 73,
+    "bytes": 26310,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      42,
+      818,
+      267,
+      891
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-18-udang-sambal",
+    "url": "/assets/dish-lunch-18-udang-sambal.webp",
+    "width": 221,
+    "height": 73,
+    "bytes": 29574,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      284,
+      818,
+      505,
+      891
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-19-sotong-sambal",
+    "url": "/assets/dish-lunch-19-sotong-sambal.webp",
+    "width": 223,
+    "height": 73,
+    "bytes": 30452,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      522,
+      818,
+      745,
+      891
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-20-kangkung-belacan",
+    "url": "/assets/dish-lunch-20-kangkung-belacan.webp",
+    "width": 222,
+    "height": 73,
+    "bytes": 30406,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      762,
+      818,
+      984,
+      891
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-21-bayam-goreng",
+    "url": "/assets/dish-lunch-21-bayam-goreng.webp",
+    "width": 225,
+    "height": 75,
+    "bytes": 31540,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      42,
+      954,
+      267,
+      1029
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-22-terung-sambal",
+    "url": "/assets/dish-lunch-22-terung-sambal.webp",
+    "width": 221,
+    "height": 75,
+    "bytes": 31050,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      284,
+      954,
+      505,
+      1029
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-23-terung-kicap",
+    "url": "/assets/dish-lunch-23-terung-kicap.webp",
+    "width": 223,
+    "height": 75,
+    "bytes": 30860,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      522,
+      954,
+      745,
+      1029
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-24-tahu-kicap",
+    "url": "/assets/dish-lunch-24-tahu-kicap.webp",
+    "width": 222,
+    "height": 75,
+    "bytes": 30434,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      762,
+      954,
+      984,
+      1029
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-25-tahu-sambal",
+    "url": "/assets/dish-lunch-25-tahu-sambal.webp",
+    "width": 225,
+    "height": 74,
+    "bytes": 31120,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      42,
+      1092,
+      267,
+      1166
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-26-tahu-sup",
+    "url": "/assets/dish-lunch-26-tahu-sup.webp",
+    "width": 221,
+    "height": 74,
+    "bytes": 25218,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      284,
+      1092,
+      505,
+      1166
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-27-kangkung-goreng",
+    "url": "/assets/dish-lunch-27-kangkung-goreng.webp",
+    "width": 223,
+    "height": 74,
+    "bytes": 29940,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      522,
+      1092,
+      745,
+      1166
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-28-tempe-goreng",
+    "url": "/assets/dish-lunch-28-tempe-goreng.webp",
+    "width": 222,
+    "height": 74,
+    "bytes": 28608,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      762,
+      1092,
+      984,
+      1166
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-29-tempe-sambal-manis",
+    "url": "/assets/dish-lunch-29-tempe-sambal-manis.webp",
+    "width": 225,
+    "height": 71,
+    "bytes": 30822,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      42,
+      1228,
+      267,
+      1299
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-30-nasi-ayam",
+    "url": "/assets/dish-lunch-30-nasi-ayam.webp",
+    "width": 221,
+    "height": 71,
+    "bytes": 27904,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      284,
+      1228,
+      505,
+      1299
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-31-nasi-tomato",
+    "url": "/assets/dish-lunch-31-nasi-tomato.webp",
+    "width": 223,
+    "height": 71,
+    "bytes": 29296,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      522,
+      1228,
+      745,
+      1299
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-lunch-32-nasi-minyak",
+    "url": "/assets/dish-lunch-32-nasi-minyak.webp",
+    "width": 222,
+    "height": 71,
+    "bytes": 25468,
+    "source": "outputs\\our-menus-design\\04-lunch-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      762,
+      1228,
+      984,
+      1299
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-tea-01-karipap",
+    "url": "/assets/dish-tea-01-karipap.webp",
+    "width": 178,
+    "height": 130,
+    "bytes": 38156,
+    "source": "outputs\\our-menus-design\\05-teatime-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      43,
+      501,
+      221,
+      631
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-tea-02-donat",
+    "url": "/assets/dish-tea-02-donat.webp",
+    "width": 178,
+    "height": 130,
+    "bytes": 40968,
+    "source": "outputs\\our-menus-design\\05-teatime-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      235,
+      501,
+      413,
+      631
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-tea-03-nenas-goreng",
+    "url": "/assets/dish-tea-03-nenas-goreng.webp",
+    "width": 177,
+    "height": 130,
+    "bytes": 39094,
+    "source": "outputs\\our-menus-design\\05-teatime-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      427,
+      501,
+      604,
+      631
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-tea-04-keledek-goreng",
+    "url": "/assets/dish-tea-04-keledek-goreng.webp",
+    "width": 174,
+    "height": 130,
+    "bytes": 39998,
+    "source": "outputs\\our-menus-design\\05-teatime-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      620,
+      501,
+      794,
+      631
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-tea-05-pisang-goreng-bijan-hitam",
+    "url": "/assets/dish-tea-05-pisang-goreng-bijan-hitam.webp",
+    "width": 169,
+    "height": 130,
+    "bytes": 42706,
+    "source": "outputs\\our-menus-design\\05-teatime-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      812,
+      501,
+      981,
+      631
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-tea-06-pisang-goreng-bijan",
+    "url": "/assets/dish-tea-06-pisang-goreng-bijan.webp",
+    "width": 178,
+    "height": 127,
+    "bytes": 43130,
+    "source": "outputs\\our-menus-design\\05-teatime-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      43,
+      706,
+      221,
+      833
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-tea-07-cekodok-bilis",
+    "url": "/assets/dish-tea-07-cekodok-bilis.webp",
+    "width": 178,
+    "height": 127,
+    "bytes": 40652,
+    "source": "outputs\\our-menus-design\\05-teatime-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      235,
+      706,
+      413,
+      833
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-tea-08-hotdog",
+    "url": "/assets/dish-tea-08-hotdog.webp",
+    "width": 177,
+    "height": 127,
+    "bytes": 38520,
+    "source": "outputs\\our-menus-design\\05-teatime-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      427,
+      706,
+      604,
+      833
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-tea-09-nugget",
+    "url": "/assets/dish-tea-09-nugget.webp",
+    "width": 174,
+    "height": 127,
+    "bytes": 37686,
+    "source": "outputs\\our-menus-design\\05-teatime-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      620,
+      706,
+      794,
+      833
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-tea-10-fish-ball",
+    "url": "/assets/dish-tea-10-fish-ball.webp",
+    "width": 169,
+    "height": 127,
+    "bytes": 31170,
+    "source": "outputs\\our-menus-design\\05-teatime-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      812,
+      706,
+      981,
+      833
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-tea-11-bihun-sup",
+    "url": "/assets/dish-tea-11-bihun-sup.webp",
+    "width": 226,
+    "height": 150,
+    "bytes": 52316,
+    "source": "outputs\\our-menus-design\\05-teatime-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      44,
+      960,
+      270,
+      1110
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-tea-12-mee-sup",
+    "url": "/assets/dish-tea-12-mee-sup.webp",
+    "width": 225,
+    "height": 150,
+    "bytes": 50622,
+    "source": "outputs\\our-menus-design\\05-teatime-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      286,
+      960,
+      511,
+      1110
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-tea-13-kuew-teow-sup",
+    "url": "/assets/dish-tea-13-kuew-teow-sup.webp",
+    "width": 222,
+    "height": 150,
+    "bytes": 46986,
+    "source": "outputs\\our-menus-design\\05-teatime-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      529,
+      960,
+      751,
+      1110
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  },
+  {
+    "name": "dish-tea-14-laksa",
+    "url": "/assets/dish-tea-14-laksa.webp",
+    "width": 208,
+    "height": 150,
+    "bytes": 56098,
+    "source": "outputs\\our-menus-design\\05-teatime-catalogue.png",
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "crop": [
+      774,
+      960,
+      982,
+      1110
+    ],
+    "compression": "lossless WebP, pixel equality verified",
+    "variants": []
+  }
+]

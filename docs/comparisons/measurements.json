@@ -1,0 +1,259 @@
+{
+  "menus-desktop": {
+    "bottom": 2612,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 1440,
+    "broken": []
+  },
+  "kitchen-desktop": {
+    "bottom": 2542,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 1440,
+    "broken": []
+  },
+  "subsidy-desktop": {
+    "bottom": 2626,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 1440,
+    "broken": []
+  },
+  "story-desktop": {
+    "bottom": 3012,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 1440,
+    "broken": []
+  },
+  "home-desktop": {
+    "bottom": 2524,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 1440,
+    "broken": []
+  },
+  "planner-desktop": {
+    "bottom": 1517,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 1440,
+    "broken": []
+  },
+  "breakfast-desktop": {
+    "bottom": 2196,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 1440,
+    "broken": []
+  },
+  "lunch-desktop": {
+    "bottom": 2164,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 1440,
+    "broken": []
+  },
+  "tea-desktop": {
+    "bottom": 2047,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 1440,
+    "broken": []
+  },
+  "home-phone": {
+    "bottom": 3970,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 390,
+    "broken": []
+  },
+  "menus-phone": {
+    "bottom": 3986,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 390,
+    "broken": []
+  },
+  "kitchen-phone": {
+    "bottom": 4261,
+    "broken": [],
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 390,
+    "tailY": 164.8000030517578
+  },
+  "subsidy-phone": {
+    "bottom": 4532,
+    "broken": [],
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 390,
+    "tailY": 436
+  },
+  "story-phone": {
+    "bottom": 4246,
+    "broken": [],
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 390,
+    "tailY": 148.8000030517578
+  },
+  "planner-phone": {
+    "bottom": 2754,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 390,
+    "broken": []
+  },
+  "breakfast-phone": {
+    "bottom": 4180,
+    "broken": [],
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 390,
+    "tailY": 84
+  },
+  "lunch-phone": {
+    "bottom": 3583,
+    "broken": [],
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 390,
+    "tailY": 0
+  },
+  "tea-phone": {
+    "bottom": 3519,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 390,
+    "broken": []
+  },
+  "enquire-phone": {
+    "bottom": 1916,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 390,
+    "broken": []
+  },
+  "home-tablet": {
+    "bottom": 2617,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 768,
+    "broken": []
+  },
+  "menus-tablet": {
+    "bottom": 2725,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 768,
+    "broken": []
+  },
+  "kitchen-tablet": {
+    "bottom": 2822,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 768,
+    "broken": []
+  },
+  "subsidy-tablet": {
+    "bottom": 2871,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 768,
+    "broken": []
+  },
+  "story-tablet": {
+    "bottom": 2833,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 768,
+    "broken": []
+  },
+  "planner-tablet": {
+    "bottom": 2158,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 768,
+    "broken": []
+  },
+  "breakfast-tablet": {
+    "bottom": 3243,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 768,
+    "broken": []
+  },
+  "lunch-tablet": {
+    "bottom": 2088,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 768,
+    "broken": []
+  },
+  "tea-tablet": {
+    "bottom": 3121,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 768,
+    "broken": []
+  },
+  "enquire-tablet": {
+    "bottom": 1392,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 768,
+    "broken": []
+  },
+  "enquire-desktop": {
+    "bottom": 1359,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 1440,
+    "broken": []
+  },
+  "home-large": {
+    "bottom": 3123,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 1920,
+    "broken": []
+  },
+  "menus-large": {
+    "bottom": 3016,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 1920,
+    "broken": []
+  },
+  "kitchen-large": {
+    "bottom": 3159,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 1920,
+    "broken": []
+  },
+  "subsidy-large": {
+    "bottom": 3085,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 1920,
+    "broken": []
+  },
+  "story-large": {
+    "bottom": 3681,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 1920,
+    "broken": []
+  },
+  "planner-large": {
+    "bottom": 1561,
+    "overflow": false,
+    "viewportHeight": 4096,
+    "width": 1920,
+    "broken": []
+  }
+}

@@ -1,0 +1,192 @@
+LABOUR CANTEEN — SEO / AEO / GEO RESEARCH
+Prepared 1 November 2026 (Asia/Singapore)
+Scope: Selangor workforce meal catering, Shah Alam central kitchen, 75 menu entries, daily meal planning and employer-supported meal tokens. This is qualitative search-intent and competitor research, not keyword-volume research. No traffic, ranking, citation or sales results are guaranteed.
+
+POSITIONING AND KEYWORD PRIORITIES
+Primary commercial intent:
+- workforce catering Selangor
+- factory catering Shah Alam
+- industrial catering Selangor
+- factory meal catering Selangor
+- construction site catering Selangor
+
+Secondary relevant wording:
+- staff meals Selangor
+- corporate meal plans Shah Alam
+- central kitchen Shah Alam
+- weekly workforce meal plan
+- employee meal subsidy Malaysia / Selangor
+- meal token programme
+- company meal allowance programme
+- multinational workforce meals
+
+Malay wording for genuine BM content:
+- katering pekerja Selangor
+- katering kilang Shah Alam
+- kantin kilang Selangor
+- makanan pekerja tapak pembinaan
+- pelan makanan mingguan pekerja
+- subsidi makanan pekerja
+- elaun makan pekerja
+- dapur berpusat Shah Alam
+- buah potong untuk pekerja
+
+These terms are recommendations inferred from the business offering and the language used on competitor sites. Search demand and difficulty have not been measured. Use phrases naturally in page titles, introductory copy, descriptions and relevant image alt text. Do not fill every heading with locations. “Canteen operator” should be used only where on-site operation is actually offered. “Meal allowance” can mean payroll/tax benefits; qualify it as a company-supported meal programme so the service is not confused with tax or HR advisory content.
+
+Most useful differentiation:
+- Clear relationship between company management and workers.
+- A customisable weekly plan across breakfast, lunch and tea-time.
+- Multinational tastes and menu variety rather than a generic catering buffet.
+- Worker pays their share at mealtime; employer settles the agreed contribution later.
+- Shah Alam central kitchen, up to 1,000 packs daily, Selangor service coverage.
+- Real catering experience and truthful individual training summaries.
+Do not copy competitors' scale, certification, location coverage or delivery promises.
+
+PAGE METADATA — READY TO IMPLEMENT
+Use the actual configured production origin for canonicals and absolute structured-data URLs. Do not deploy placeholder domains. Keep the already-approved H1 copy; search-focused text can sit in title tags and short supporting text without disrupting the layout.
+
+Home
+Suggested path: /
+Title: Workforce Catering Selangor | Labour Canteen
+Description: Workforce meals for factories, construction sites and institutions across Selangor. Explore daily menu choices and flexible company meal subsidy support.
+Primary intent: workforce catering Selangor; factory catering Shah Alam.
+Suggested supporting text: “Workforce catering from Shah Alam, serving factories, construction teams and institutions across Selangor.”
+
+Our Menus
+Suggested path: /our-menus
+Title: Workforce Menus & Weekly Meal Plans | Labour Canteen
+Description: Explore 75 breakfast, lunch and tea-time menu entries, plus Buah Potong. Build a weekly meal plan around your team's tastes and portion needs.
+Primary intent: workforce meal plans; staff catering menu; weekly meal plan Selangor.
+Keep menu names as selectable text in HTML. Show categories and individual cards without requiring search engines to interact with the planner first. If all 75 items are only injected after a click, pre-render category routes or render the underlying full catalogue in accessible HTML.
+
+Central Kitchen
+Suggested path: /central-kitchen
+Title: Central Kitchen Shah Alam | Labour Canteen
+Description: Meet our multinational chef team and Shah Alam central kitchen, preparing up to 1,000 meal packs daily for workforces across Selangor.
+Primary intent: central kitchen Shah Alam; bulk workforce meals Selangor.
+Visible exact address: Jalan Lontar Peluru 13/39, Seksyen 13, 40100 Shah Alam, Selangor.
+This is the kitchen address, not a public restaurant invitation. Do not invent opening hours or coordinates.
+
+Subsidy Support
+Suggested path: /subsidy-support
+Title: Meal Tokens & Company Meal Allowance | Labour Canteen
+Description: Support your workers with meal tokens or a meal allowance. Workers pay their share at mealtime; your company settles its agreed contribution later.
+Primary intent: meal token programme; employee meal subsidy; company meal allowance.
+Use the exact supported mechanism without prices, percentages, fixed settlement periods, interest claims or loan terminology.
+
+Our Story
+Suggested path: /our-story
+Title: Our Story & Leadership | Labour Canteen Selangor
+Description: Meet the husband-and-wife leadership behind Labour Canteen, bringing 10 years of F&B experience and a people-first approach to workforce meals.
+Primary intent: Labour Canteen; Labour Canteen leadership; workforce catering company Selangor.
+Retain supplied degree names. Individual halal/food-handler training is not company, premises or product halal certification. Do not infer a founding year from “10 years in F&B”.
+
+DIRECT COMPETITOR COMPARISON
+Competitor claims below are how the companies describe themselves on their own websites. They have not been independently audited.
+
+Muhibbah F&B — closest service-model competitor
+Their industrial-canteen page targets high-volume, multi-shift factory dining and explicitly discusses fully or partly employer-subsidised pricing. Its location coverage includes Shah Alam and other Klang Valley areas. The useful benchmark is service-specific content, sector coverage and practical procurement questions. Labour Canteen can differentiate with a simple weekly planner and a clearer worker/company contribution explanation, while retaining its actual capacity.
+Source: Industrial Canteen Operator Malaysia
+https://www.muhibbahfnb.com/services/industrial-canteen
+Additional local source:
+https://www.muhibbahfnb.com/locations/klang-valley
+
+Hot Piper Specialty Catering — relevant Shah Alam canteen competitor
+Its service page lists industrial/corporate canteen examples including several Shah Alam sites and separates canteen service from event catering. This illustrates the value of genuine project photography and specific service experience. Labour Canteen should use its own enhanced archive and avoid client names or logos without confirmation.
+Source: Canteen Services
+https://hotpiper.com.my/services/
+
+Sidah Catering Services — local broad-service competitor
+Its Shah Alam-based services include canteen contracts for schools, offices and industrial facilities, alongside event and packaged-food services. Labour Canteen's website should remain centred on recurring workforce meals rather than allowing wedding/event search intent to dominate.
+Source: Services
+https://sidah.com.my/services/
+
+Foodpanda for business — adjacent allowance alternative, not a direct central-kitchen equivalent
+Its employee-allowance page describes configurable budgets and monthly invoicing through an allowance-management platform. This is a useful category comparison for employee meal support, but Labour Canteen must not claim a live wallet, dashboard, automated invoices or fixed monthly terms unless implemented and agreed.
+Source: Employee Allowances
+https://www.foodpanda.my/corporate/allowance
+
+AEO / GEO CONTENT RECOMMENDATIONS
+Use short, visible, factual answers in the existing design sections. These can be cited by search systems and also help customers; this is an editorial recommendation, not a guaranteed citation tactic.
+
+What does Labour Canteen do?
+“Labour Canteen provides workforce meals for companies and institutions across Selangor, with daily menu choices and company-supported meal arrangements.”
+
+Where is the central kitchen?
+“Our central kitchen is at Jalan Lontar Peluru 13/39, Seksyen 13, 40100 Shah Alam, Selangor.”
+
+How many meals can you prepare?
+“Our central kitchen can prepare up to 1,000 meal packs daily. Meal quantities and scheduling are agreed with each company.”
+
+Can workers choose their meals?
+“Companies can plan breakfast, lunch and tea-time choices around their team's preferences. The weekly planner helps organise dishes, portions and fruit add-ons.”
+
+How does a meal token work?
+“A worker pays their share at mealtime. The company settles its agreed contribution with Labour Canteen later, according to the agreed terms.”
+
+Who leads the company?
+“AZLINHAN AKBAR KHAN is Managing Director. MUHAMMAD ALIYAS NAINA MOHAMED is Director.” Follow with their supplied qualifications.
+
+Google's current guidance says conventional SEO remains relevant to generative search. Helpful first-party information, clear structure and crawlability matter; special AI markup or llms.txt is not required for Google. This supports preserving authentic business facts, accessible text and useful images rather than publishing many near-identical keyword pages. Eligibility does not guarantee inclusion or citations.
+Source: Google's Guide to Optimizing for Generative AI Features
+https://developers.google.com/search/docs/fundamentals/ai-optimization-guide
+
+Google's current changelog says FAQ rich results stopped appearing from May 7, 2026, with documentation removed in June. Do not sell FAQPage markup as a way to obtain FAQ rich snippets. Keep FAQs because the answers are useful.
+Source: Google Search documentation updates, May/June 2026
+https://developers.google.com/search/updates
+
+Bing's guidelines similarly emphasise accurate content and matching structured data, and warn against keyword stuffing, low-value scaled generation and attempts to manipulate AI answers. Bing's AI Performance reporting can later show citation trends and grounding queries; results cannot be assessed before the site is live and indexed.
+Sources:
+https://www.bing.com/webmasters/help/webmaster-guidelines-30fba23a
+https://www.bing.com/webmasters/help/ai-performance-9f8e7d6c
+
+STRUCTURED DATA IMPLEMENTATION
+Use JSON-LD with one stable business entity, for example productionOrigin + "/#business".
+Suggested type: FoodEstablishment, a LocalBusiness/Organization subtype describing a food-related business. Do not call it a walk-in Restaurant unless that service is actually offered. A Service node can describe workforce meal catering and reference the business via provider. A Menu node can reference the rendered menu catalogue. These are semantic suggestions, not guaranteed rich-result features.
+Schema.org references:
+https://schema.org/FoodEstablishment
+https://schema.org/Service
+https://schema.org/Menu
+
+Appropriate business fields:
+name: Labour Canteen
+url: actual production origin
+logo and image: absolute, crawlable production asset URLs
+description: the factual workforce-catering description
+address:
+  streetAddress: Jalan Lontar Peluru 13/39, Seksyen 13
+  addressLocality: Shah Alam
+  addressRegion: Selangor
+  postalCode: 40100
+  addressCountry: MY
+areaServed: AdministrativeArea named Selangor
+hasMenu: absolute URL to /our-menus
+servesCuisine: only the actual offered cuisines
+sameAs: only verified official social links, if later supplied
+
+Omit unprovided phone/email, geocoordinates, openingHours, priceRange, reviews, aggregateRating, company registration numbers and certification fields. Do not add fake Offer prices when pricing is by quotation. Do not put private planner data or client enquiries in public schema.
+
+Put BreadcrumbList on subpages, representing Home → page. Use at least two ListItems. Keep markup consistent with visible page context. Add Organization-compatible logo and URL information to help entity disambiguation. Validate supported markup using Google's Rich Results Test and broader vocabulary using Schema.org Validator.
+Sources:
+https://developers.google.com/search/docs/appearance/structured-data/local-business
+https://developers.google.com/search/docs/appearance/structured-data/organization
+https://developers.google.com/search/docs/appearance/structured-data/breadcrumb
+https://developers.google.com/search/docs/appearance/structured-data/sd-policies
+
+TECHNICAL CHECKLIST
+- Stable clean paths with no .html links; permanent redirects from former .html variants if they ever existed.
+- HTTP 200 for valid public pages, real 404 status for unknown routes; no universal 200 fallback for nonexistent content.
+- Unique title/description, one primary H1, logical headings, descriptive link labels.
+- Crawlable server-rendered/static HTML for the business story, address, FAQs and menu text.
+- Self-referencing canonical URLs based on the real production hostname; sitemap with the same canonical URLs.
+- robots.txt references the sitemap; no accidental noindex or robots blocks on production.
+- Noindex dev/preview copies if accessible publicly; avoid publishing duplicate site origins.
+- Descriptive image filenames and natural alt text; decorative shapes/icons use empty alt or aria-hidden.
+- Responsive images with width/height, efficient image formats and sensible loading; eager/high priority for the true hero, lazy below the fold.
+- The public site must work and retain essential content without animations. Honour reduced-motion preferences.
+- EN/BM selector must lead to real translated content. Do not add hreflang for untranslated or placeholder pages. If only EN is implemented, remove or label the inactive BM control rather than pretending it is complete.
+- Do not render competitor names or this research as promotional claims on customer-facing pages.
+- No doorway pages for every town or industrial estate without genuine local service detail.
+
+AFTER DEPLOYMENT
+Confirm the final canonical hostname, verify ownership in Google Search Console and Bing Webmaster Tools, submit sitemap, inspect representative URLs and review indexing. Use actual enquiry conversions and search queries to refine language. A Google Business Profile may be useful only if the business meets its eligibility and address/service-area rules; do not create one or imply public walk-in access without the owner's decision.

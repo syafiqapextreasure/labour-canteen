@@ -1,0 +1,72 @@
+[
+  {
+    "name": "home",
+    "heading": "Hidangan lebih baik.Pasukan lebih kuat.",
+    "lang": "ms",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "name": "menus",
+    "heading": "Minggu anda.Cita rasa anda.Menu anda.",
+    "lang": "ms",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "name": "kitchen",
+    "heading": "Satu dapur.Pelbagai cita rasa kegemaran.",
+    "lang": "ms",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "name": "subsidy",
+    "heading": "Sokong pekerjaanda. Kongsi kosnya.",
+    "lang": "ms",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "name": "story",
+    "heading": "Bermula dengan makanan.Diperkukuh oleh hubungan.",
+    "lang": "ms",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "name": "planner",
+    "heading": "Jadikan setiap hari sedikit berbeza.",
+    "lang": "ms",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "name": "breakfast",
+    "heading": "Mulakan hari mengikut selera anda.",
+    "lang": "ms",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "name": "lunch",
+    "heading": "Gabungkan lauk. Ikut cita rasa anda.",
+    "lang": "ms",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "name": "tea",
+    "heading": "Rehat seketika.Banyak untuk dinikmati.",
+    "lang": "ms",
+    "overflow": false,
+    "ready": "true"
+  },
+  {
+    "name": "enquire",
+    "heading": "Hidangan lebih baik bermula dengan perbincangan.",
+    "lang": "ms",
+    "overflow": false,
+    "ready": "true"
+  }
+]
