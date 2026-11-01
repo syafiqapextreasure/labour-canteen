@@ -1,0 +1,11 @@
+Tray-service revision — 2 November 2026
+
+Replaced home handover, subsidy hero, kitchen hero, cooking-team, kitchen teaser, CTA, meal preparation strip and dispatch imagery with reusable stainless steel tray service imagery. Four source masters are retained in ../website-source-assets/tray-revision-*.png; deployed assets are lossless WebP with responsive hero variants.
+
+Built-in ImageGen prompts: preserve original home composition and replace cardboard box with open steel tray; distinct subsidy cashier/card interaction with open tray and uncluttered upper-left overlay space; multinational chefs cooking at a range; separate team portioning meals into open steel compartment trays. No boxes or disposable containers.
+
+Mobile/tablet catalogues use keyboard-focusable horizontal scroll-snap rows with previous/next controls; desktop retains full grids. Search continues to filter all items.
+
+Homepage presets: Standard = Nasi ayam + Bayam goreng; Most Popular = Nasi tomato + Rendang ayam + Kangkung goreng; Healthy = Singang + Tahu sup + Bayam goreng. All include fruit. These are proposed package names, not measured popularity or nutritional certification. Selected package replaces lunch on chosen day and preserves other meals.
+
+Validation: 7 automated tests pass. Browser verified package preview, selected package in Monday lunch, fruit enabled, mobile arrow scrolling, no document overflow at 390px and 768px. Revised photo/overlay inspected. Previous comparison screenshots represent the initial approved-design implementation; current revision screenshots are in the separate revision folder in the deliverables.
