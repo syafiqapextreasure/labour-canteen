@@ -1,0 +1,7 @@
+Meal-specific presets — 2 November 2026
+
+Menu browser meal tabs now switch breakfast/lunch/tea dishes in place. Standard, Most Popular and Healthy directly filter the existing cards with no separate preview package block. All dishes clears preset filtering; preset selection clears prior cuisine/search criteria so the intended recommendations are shown. Cuisine filters remain available for breakfast. Individual catalogue pages also offer the three presets.
+
+Weekly planner has meal selector, three preset chips, image preview, selected day, Apply to this day, Fill this meal for the week and Undo. Week application rotates curated meal combinations and preserves portions, spice, notes, fruit and other meal categories. Preset definitions shared in public/presets.mjs. These are suggested selections, not measured popularity or nutrition claims.
+
+Validation: seven existing site tests plus two new preset tests pass. Browser verified lunch filter, breakfast/tea-specific results, full-week rotation, preservation of breakfast, undo, single-day application, persistence after reload and 390px layout without page overflow. Screenshots in outputs/website-comparison/meal-presets.
