@@ -71,7 +71,7 @@ test('Malay HTML and browser translation dictionary are complete', async () => {
 test('enquiry targets encode user text, use supplied contacts and include a plan only by choice', () => {
   const fields = {name: 'QA & team', company: 'Apex #1', email: 'qa@example.test', phone: '0123456789', workers: '120', message: 'No nuts & mild', includePlan: true};
   const whatsapp = new URL(enquiryTarget(fields, 'Monday: Nasi ayam'));
-  assert.equal(whatsapp.origin + whatsapp.pathname, 'https://wa.me/60129270108');
+  assert.equal(whatsapp.origin + whatsapp.pathname, 'https://wa.me/60198176003');
   assert.match(whatsapp.searchParams.get('text'), /QA & team/);
   assert.match(whatsapp.searchParams.get('text'), /Monday: Nasi ayam/);
   const email = new URL(enquiryTarget({...fields, includePlan: false}, 'SECRET PLAN', 'email', 'ms'));

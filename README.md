@@ -37,7 +37,7 @@ Official setup references: [Workers build settings](https://developers.cloudflar
 ## Customer enquiries and the planner
 
 - Email: **mail@labourcanteen.com**
-- WhatsApp: **+60 12-927 0108**
+- WhatsApp: **+60 19-817 6003**
 - A visitor chooses a five- or seven-day plan, dishes, portions, spice preferences and fruit. They can copy meals to other days, save locally and download a CSV.
 - Plans are stored only in that browser's local storage. There is no account, shared database, payment processing or automatic order confirmation.
 - Enquiry buttons open the visitor's WhatsApp or email composer with their details and optional plan. The visitor reviews and sends the message themselves. This is not a background email-delivery service.

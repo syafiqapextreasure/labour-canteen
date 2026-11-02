@@ -1,4 +1,4 @@
-export const config={name:'Labour Canteen',email:'mail@labourcanteen.com',phone:'+60 12-927 0108',whatsapp:'60129270108',origin:(process.env.SITE_URL||'https://labourcanteen.com').replace(/\/$/,''),address:'Jalan Lontar Peluru 13/39, Seksyen 13, 40100 Shah Alam, Selangor'};
+export const config={name:'Labour Canteen',email:'mail@labourcanteen.com',phone:'+60 19-817 6003',whatsapp:'60198176003',origin:(process.env.SITE_URL||'https://labourcanteen.com').replace(/\/$/,''),address:'Jalan Lontar Peluru 13/39, Seksyen 13, 40100 Shah Alam, Selangor'};
 export const meta={
  home:['Workforce Catering Selangor | Labour Canteen','Workforce meals for factories, construction sites and institutions across Selangor. Explore daily menu choices and flexible company meal subsidy support.'],
  menus:['Workforce Menus & Weekly Meal Plans | Labour Canteen','Explore 75 breakfast, lunch and tea-time menu entries, plus Buah Potong. Build a weekly meal plan around your team’s tastes and portion needs.'],

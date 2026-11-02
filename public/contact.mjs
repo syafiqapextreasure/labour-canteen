@@ -16,5 +16,5 @@ export function enquiryTarget(fields, planText = '', mode = 'whatsapp', locale =
     const subject = (ms ? 'Pertanyaan makanan pekerja — ' : 'Workforce meal enquiry — ') + value('company');
     return 'mailto:mail@labourcanteen.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
   }
-  return 'https://wa.me/60129270108?text=' + encodeURIComponent(body);
+  return 'https://wa.me/60198176003?text=' + encodeURIComponent(body);
 }
